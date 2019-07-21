@@ -1,3 +1,6 @@
+Below are the steps to provision Instances from the google cloud
+===============================================================
+
 First step is to create instances in Google cloud platform
 
 Replace the ProjectID,Credentials.json and project name from the main.tf file 
