@@ -5,7 +5,7 @@ variable "node_count" {
 
 provider "google" {
  credentials = "${file("test.json")}"
- project     = "kubernetes-247407"
+ project     = "kubernetes-test"
  region      = "us-central1-a"
 }
 // Terraform plugin for creating random ids
